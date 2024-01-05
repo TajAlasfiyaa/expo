@@ -162,7 +162,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [TajAlasfiyaa/expo](https://github.com/TajAlasfiyaa/expo)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|332<br/>Tools used|12/10/23 <br/>Report generated|
+|336<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -875,9 +875,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (249)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (253)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (190)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (193)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -943,10 +943,12 @@ Full tech stack [here](/techstack.md)
 |[base64-js](https://www.npmjs.com/base64-js)|v1.5.1|07/15/22|Tomasz Sapeta |MIT|N/A|
 |[blueimp-md5](https://www.npmjs.com/blueimp-md5)|v2.19.0|05/27/19|Stanisław Chmiela |MIT|N/A|
 |[body-parser](https://www.npmjs.com/body-parser)|v1.20.1|01/02/23|Tomasz Sapeta |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v4.1.2|03/23/22|Evan Bacon |MIT|N/A|
 |[clang-format](https://www.npmjs.com/clang-format)|v1.2.4|07/15/22|Tomasz Sapeta |Apache-2.0|N/A|
 |[compare-versions](https://www.npmjs.com/compare-versions)|v3.6.0|02/14/23|Tomasz Sapeta |MIT|N/A|
 |[connect](https://www.npmjs.com/connect)|v3.7.0|07/15/22|Tomasz Sapeta |MIT|N/A|
 |[cross-spawn](https://www.npmjs.com/cross-spawn)|v7.0.3|07/22/22|Tomasz Sapeta |MIT|N/A|
+|[danger](https://www.npmjs.com/danger)|v11.2.0|12/07/22|Bartosz Kaszubowski |MIT|N/A|
 |[debug](https://www.npmjs.com/debug)|v2.6.9|06/23/22|Evan Bacon |MIT|N/A|
 |[dedent](https://www.npmjs.com/dedent)|v0.7.0|05/19/21|Will Schurman |MIT|N/A|
 |[diff](https://www.npmjs.com/diff)|v5.1.0|07/11/22|andy |BSD-3-Clause|N/A|
@@ -969,6 +971,7 @@ Full tech stack [here](/techstack.md)
 |[fast-glob](https://www.npmjs.com/fast-glob)|v3.2.12|05/07/21|Tomasz Sapeta |MIT|N/A|
 |[find-up](https://www.npmjs.com/find-up)|v2.1.0|06/28/22|Evan Bacon |MIT|N/A|
 |[firebase-admin](https://www.npmjs.com/firebase-admin)|v11.4.0|12/21/22|Bartosz Kaszubowski |Apache-2.0|N/A|
+|[flow-bin](https://www.npmjs.com/flow-bin)|v0.176.3|07/15/22|Tomasz Sapeta |MIT|N/A|
 |[form-data](https://www.npmjs.com/form-data)|v3.0.1|03/23/22|Evan Bacon |MIT|N/A|
 |[front-matter](https://www.npmjs.com/front-matter)|v4.0.2|12/07/22|Bartosz Kaszubowski |MIT|N/A|
 |[fs-extra](https://www.npmjs.com/fs-extra)|v10.1.0|09/21/22|Bartosz Kaszubowski |MIT|N/A|
@@ -1112,7 +1115,7 @@ Full tech stack [here](/techstack.md)
 |[org.robolectric:robolectric](http://robolectric.org/)|v3.8|12/15/21|Will Schurman |MIT|N/A|
 
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png'/> CocoaPods (23)
+## <img width='24' height='24' src='https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png'/> CocoaPods (24)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -1135,6 +1138,7 @@ Full tech stack [here](/techstack.md)
 |[OHHTTPStubs](https://cocoapods.org/pods/OHHTTPStubs)|v9.1.0|07/29/21|Eric Samelson |MIT|N/A|
 |[Quick](https://cocoapods.org/pods/Quick)|v5.0.1|11/02/21|Łukasz Kosmaty |Apache-2.0|N/A|
 |[ReachabilitySwift](https://cocoapods.org/pods/ReachabilitySwift)|v5.0.0|03/08/23|Will Schurman ||N/A|
+|[SDWebImage](https://cocoapods.org/pods/SDWebImage)|v5.15.0|01/20/23|Tomasz Sapeta |MIT|N/A|
 |[SDWebImageWebPCoder](https://cocoapods.org/pods/SDWebImageWebPCoder)|v0.9.1|01/20/23|Tomasz Sapeta |MIT|N/A|
 |[ZXingObjC](https://cocoapods.org/pods/ZXingObjC)|v3.6.5|12/23/22|Tomasz Sapeta |Apache-2.0|N/A|
 |[glog](https://cocoapods.org/pods/glog)|v0.3.5|07/15/22|Tomasz Sapeta ||N/A|
